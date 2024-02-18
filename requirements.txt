@@ -1,4 +1,4 @@
 streamlit
 openai
-guesslang==2.5.0
+guesslang==2.2.1
 numpy
